@@ -1,9 +1,9 @@
 {
-    "token": "OTU1MDQ1NTc0NTM1Njk2Mzg0.GzVe-8.iOYC3ZrGr1qMAXiRP7EEjvLm6QiwzeuT8Kxe6c",
+    "token": "MTA3NjYxNjA2NTA3MDY2MTY5Mg.GInGpd.HbBblCTjPfAfSob6t63UIGcawzK8iBq_toZ7vU",
     "prefix": "g!",
-    "serverID": "1001844544985382982",
+    "serverID": "1078637799957332018",
     "welcome": {
-        "channelId": "1002268176270249994",
+        "channelId": "1078698666128326837",
         "message": {
             "success": "{user} katıldı; tarafından davet edildi **{inviterName}** ; O sahip**{inviteCount}** davete",
             "unknow": "J{user} Sunucuya Nasıl Katıldığını Bulamadım ?",
